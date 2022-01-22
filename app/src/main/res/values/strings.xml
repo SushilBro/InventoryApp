@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="open">Drawer Open</string>
+    <string name="close">Drawer Closed</string>
+
+    <string name="hello_blank_fragment">This is the main fragment</string>
+
+    <array name="menuOptions">
+        <item name="home">Home</item>
+        <item>View Transactions</item>
+<!--        <item>Manage Account</item>-->
+<!--        <item>View Graph</item>-->
+<!--        <item>Setting</item>-->
+    </array>
+    <!--    <string-array name="ProductName">-->
+    <!--        <item>Noodles</item>-->
+    <!--        <item>Biscuit</item>-->
+    <!--        <item>Choclates</item>-->
+    <!--        <item>Cold Drinks</item>-->
+    <!--        <item>Hard Drinks</item>-->
+    <!--        <item>Shoap</item>-->
+    <!--        <item>Sugar</item>-->
+    <!--        <item>Salt</item>-->
+    <!--        <item>Potato Chips</item>-->
+    <!--    </string-array>-->
+</resources>
